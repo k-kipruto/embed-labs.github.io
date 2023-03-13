@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://embed-labs.github.io/sitemap.xml
+Sitemap: https://hbs-skeleton.netlify.app/sitemap.xml
